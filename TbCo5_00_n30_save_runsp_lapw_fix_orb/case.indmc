@@ -1,0 +1,4 @@
+-12.0         Emin cutoff
+1         # of atoms
+5  1  3    index of atom, number of l, l
+ 0 0          r-index,(l,s) index
